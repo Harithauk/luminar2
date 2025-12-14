@@ -20,3 +20,4 @@ age = 34
 
 location='calicut'
 name='pavithra'
+name =input('enter the name')
